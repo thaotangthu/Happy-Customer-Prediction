@@ -1,4 +1,4 @@
-Project: Customers' Happiness Prediction
+Project: Happy Customers Prediction
 
 This project is to predict if a customer is happy or not based on the answers they give to questions asked.
 
