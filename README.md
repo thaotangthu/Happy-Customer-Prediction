@@ -1,5 +1,3 @@
-Project: Happy Customers Prediction
-
 This project is to predict if a customer is happy or not based on the answers they give to questions asked.
 
 The dataset was trained on 4 models, namely Logistic Regression, Decision Tree, Random Forest and XGBoost. The model outputs indicate XGBoost as the optimal model due to its highest accuracy scores of 70% (train set) and 73% (test set), also two important features that are highly predictive are `courier_satisfaction` and `on-time_delivery`. 
